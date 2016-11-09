@@ -1,4 +1,6 @@
-## To avoid repeatedly calculating the inverse of a matrix, create a special matrix object that can cache its inverse, then retrieve the inverse from the cache if it has already been calculated
+## To avoid repeatedly calculating the inverse of a matrix, create a special 
+## matrix object that can cache its inverse, then retrieve the inverse from the 
+## cache if it has already been calculated
 
 ## Make a matrix object that can cache its inverse
 
